@@ -1,4 +1,4 @@
-cs010_code_snippets
+cs010_programs
 ===================
 
-The CS010(v) code snippets repository has pieces of code to supplement teaching the weekly topic.
+The CS010(v) programs repository has excutable versions of the various assignments.
