@@ -14,6 +14,6 @@ will pull all new files or modifications and incorporate them into your
 Cloud 9 workspace. The second will reset all files you have modified to the 
 versions that exist in the primary repository (overwriting without confirming).
 
-1) git pull
-2) git checkout -f
+* git pull
+* git checkout -f
 
