@@ -17,3 +17,21 @@ versions that exist in the primary repository (overwriting without confirming).
 * git pull
 * git checkout -f
 
+
+
+Executing a Program
+===================
+The ".out" files are the executable files.  So to run an executable named a.out
+we type:
+
+run a.out
+OR 
+run a.out 10
+
+The second run command executes the program for 10 seconds. This is useful when 
+the program requires user input and takes longer than 5 seconds to execute.
+
+
+To go back to the top level home directory we utilize an aliased command "home".
+
+home
